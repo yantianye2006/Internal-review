@@ -1,0 +1,4 @@
+interface:
+  display_name: "Citation Check"
+  short_description: "检查正文引用对应、证据支持与引用缺失，并支持定向修订"
+  default_prompt: "Use $citation-check to review the specified claims and citations, and revise only the issues I explicitly authorize."

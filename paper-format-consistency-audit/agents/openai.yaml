@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文格式与全文一致性审查"
+  short_description: "按四项必备材料审查建模论文并生成 HTML 自检报告"
+  default_prompt: "Use $paper-format-consistency-audit to review my modeling paper against the supplied rules and generate a concise HTML checklist report."

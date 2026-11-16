@@ -1,0 +1,4 @@
+interface:
+  display_name: "数学建模论文内容审查"
+  short_description: "支持全文与独立章节专项检查、问题跟踪和授权修订"
+  default_prompt: "Use $paper-content-review to inspect the specified paper or section, route only the relevant experts, and revise only explicitly authorized issues."
